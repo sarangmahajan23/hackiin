@@ -1,0 +1,20 @@
+@font-face {
+    font-family: myfont;
+    src: url(StaleMarker.ttf);
+}
+body {
+    background-image: url(cla.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: myfont;
+    text-align: center;
+    font-size: max(8vw,30px);
+}
