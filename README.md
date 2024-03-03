@@ -20,3 +20,5 @@ The Backend and Machine Learning is done with python.
 ML model is trained by taking photos of the student and analyzing them.
 
 Fisher Model is used as ML algorithm of choice here.
+
+Quine : https://drive.google.com/drive/folders/1BJHel0-cf-U8rdMchZe_A4DnDGWdsxD5?usp=sharing
